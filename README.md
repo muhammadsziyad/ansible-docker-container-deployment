@@ -3,6 +3,9 @@
 
 This project uses Ansible to automate the installation of Docker on a group of servers and deploy a simple Docker container.
 
+![ansible-docker-deployment](https://github.com/user-attachments/assets/dc05cfe3-7633-4f74-926f-76714e9300b5)
+
+
 ## Prerequisites
 
 1. **Ansible Installed**: Ensure Ansible is installed on your control node (the machine from which you'll run Ansible).
